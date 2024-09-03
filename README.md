@@ -6,11 +6,7 @@ From the early days of humanity's need for energy, coal mining has been both cru
 We have designed a smart helmet using a NodeMCU ESP8266 microcontroller to monitor hazardous gases, abnormal temperatures, and humidity levels within coal mines. The helmet is equipped with a temperature sensor, humidity sensor (DHT11), and gas sensors (MQ4 and MQ7) to continuously assess conditions in the coal pit. The enhanced safety features of our system significantly improve the miners' chances of survival by providing real-time alerts about potential hazards.
 Using IoT technology, we have developed a template in Blynk that displays real-time data on temperature, humidity, and gas concentrations in coal mines. The system sends notifications whenever these values exceed their respective thresholds, ensuring immediate alerts in hazardous situations.
 # Images
-![IMG-20240829-WA0007](https://github.com/user-attachments/assets/47dffd46-2357-440d-baf5-072a4a7b1901)
-
-![Uploading IMG-20240829-WA0001.jpg…]()
-![IMG-20240829-WA00021](https://github.com/user-attachments/assets/b4fb2a6c-987e-49ba-bbf5-0d95d1a167f6)
-![IMG-20240829-WA0003](https://github.com/user-attachments/assets/386fb7d7-f713-466d-ba65-e6b526527bc7)
+ <img src="![IMG-20240829-WA0001](https://github.com/user-attachments/assets/5a657576-5622-4653-b330-835eaa3e7ef0)" alt="alt text" width="100" height="100">
 
 
 
